@@ -24,7 +24,7 @@ I'm a computer science graduate 💻 who is passionate about exploring new dimen
  
  ### Contact Me:
  <div>
-  <a href=" https://www.linkedin.com/in/keerthana-rajeev-178151177/"> 
+  <a href="https://www.linkedin.com/in/keerthana-rajeev-178151177/"> 
                   <img height="50" width="50" src="https://www.flaticon.com/svg/static/icons/svg/185/185964.svg" /> 
 </a>
                  
