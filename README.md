@@ -18,7 +18,7 @@ I'm a computer science graduate 💻 who is passionate about exploring new dimen
 <br> 
 <div>
     <img style="border-radius:50%" height="32" width="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" /> 
- <img height="32" width="32" src="https://www.flaticon.com/svg/static/icons/svg/873/873117.svg" />
+ 
 </div>
  <br>
  
